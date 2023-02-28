@@ -1,0 +1,1 @@
+console.log('now chack some js file')
